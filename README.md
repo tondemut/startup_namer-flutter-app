@@ -1,8 +1,8 @@
-# startup_namer
+# Startup name generator
 
-A new Flutter project.
+A Flutter project which generaates random startup names.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view their
 [documentation](https://flutter.io/).
